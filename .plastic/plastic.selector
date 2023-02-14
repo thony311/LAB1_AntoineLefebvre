@@ -1,0 +1,4 @@
+repository "LAB1_AntoineLefebvre@CegepTRAL@cloud"
+  path "/"
+    br "/main"
+    co "/main"
